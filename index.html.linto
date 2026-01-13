@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO Meta Tags -->
+    <title>LinTO × UNESCO World Radio Day 2026 - Free AI Transcription Service for Radio Networks</title>
+    <meta name="description" content="LINAGORA is offering radio stations and networks participating in World Radio Day 2026 six months of free service on LinTO, our comprehensive media management platform with advanced AI transcription and collaborative editing tools.">
+    <meta name="keywords" content="World Radio Day, WRD 2026, UNESCO, LinTO, transcription, AI, radio networks, media management, LINAGORA, free transcription service">
+    <meta name="author" content="LINAGORA">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="LinTO × UNESCO World Radio Day 2026 - Free AI Transcription for Radio Networks">
+    <meta property="og:description" content="Six months of free AI-powered transcription service for radio stations participating in World Radio Day 2026. LinTO provides live transcription, subtitles, and collaborative editing.">
+    <meta property="og:locale" content="en_US">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="LinTO × UNESCO World Radio Day 2026">
+    <meta property="twitter:description" content="Six months of free AI-powered transcription service for radio stations participating in World Radio Day 2026.">
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#2563eb">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-gradient-to-br from-blue-50 via-indigo-50 to-blue-100 text-gray-900 antialiased">
+
+    <!-- Header -->
+    <header class="sticky top-0 z-50 backdrop-blur-md bg-white/80 shadow-sm border-b border-blue-200">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center space-x-3">
+                    <div class="w-10 h-10 bg-gradient-to-br from-blue-600 to-indigo-700 rounded-lg flex items-center justify-center">
+                        <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="m12-2.94e-6c-6.6263 0-11.994 5.368-11.994 11.994 0 6.6263 5.368 11.994 11.994 11.994 0.12698 0 0.26558-7.5e-5 0.39256-0.01161l9.4313 0.02308c-1.0159-0.6811-1.9393-1.9278-1.466-3.3939 2.2626-2.1703 3.6364-5.241 3.6364-8.6118 0-6.6263-5.368-11.994-11.994-11.994zm-3.544 10.263c0.66955-0.01154 1.2237 0.54259 1.2237 1.2237 0 0.6811-0.55414 1.2237-1.2237 1.2237-0.6811 0-1.2237-0.55414-1.2237-1.2237 0-0.6811 0.55414-1.2237 1.2237-1.2237zm7.0995 0c0.66955-0.01154 1.2237 0.54259 1.2237 1.2237 0 0.6811-0.55414 1.2237-1.2237 1.2237-0.6811 0-1.2237-0.55414-1.2237-1.2237 1e-6 -0.6811 0.55414-1.2237 1.2237-1.2237zm-1.9372 5.4206c0.27056-0.0065 0.53468 0.14946 0.65589 0.4092 0.16162 0.34632-7.5e-5 0.76184-0.3464 0.92346-0.45022 0.21934-1.212 0.33478-1.997 0.33478-0.73882 0-1.4546-0.10397-1.9163-0.3464-0.34632-0.1847-0.48485-0.60014-0.31169-0.93492 0.1847-0.34632 0.6003-0.48485 0.93508-0.31169 0.49639 0.25397 2.1355 0.24235 2.7127-0.01161 0.08658-0.0404 0.17754-0.06064 0.26772-0.06281z" />
+                        </svg>
+                    </div>
+                    <h1 class="text-xl sm:text-2xl font-bold font-heading bg-gradient-to-r from-blue-600 to-indigo-700 bg-clip-text text-transparent">
+                        LinTO × WRD26
+                    </h1>
+                </div>
+                <a href="https://linto.ai"
+                   class="px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-700 text-white rounded-lg hover:shadow-lg hover:scale-105 transition-all duration-200 font-medium text-sm sm:text-base">
+                    Visit LinTO →
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+        <!-- Hero Section -->
+        <section class="pt-16 pb-20 text-center">
+            <div class="inline-flex items-center gap-2 px-4 py-2 bg-blue-700/10 border border-blue-700/20 text-blue-800 rounded-full text-sm font-semibold mb-8 backdrop-blur-sm">
+                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                </svg>
+                WRD 2026 Proud Partner
+            </div>
+
+            <h2 class="text-5xl sm:text-6xl lg:text-7xl font-black font-heading mb-6 leading-tight">
+                <span class="bg-gradient-to-r from-blue-700 via-blue-600 to-indigo-800 bg-clip-text text-transparent">
+                    World Radio Day
+                </span>
+                <br>
+                <span class="text-gray-900">2026</span>
+            </h2>
+
+            <div class="flex flex-wrap items-center justify-center gap-3 text-lg sm:text-xl text-gray-700 mb-8">
+                <span class="flex items-center gap-2 bg-white/80 backdrop-blur-sm px-4 py-2 rounded-full shadow-sm">
+                    <svg class="w-5 h-5 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+                    </svg>
+                    February 13, 2026
+                </span>
+                <span class="hidden sm:inline text-gray-300">•</span>
+                <span class="flex items-center gap-2 bg-white/80 backdrop-blur-sm px-4 py-2 rounded-full shadow-sm">
+                    <svg class="w-5 h-5 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>
+                    </svg>
+                    Radio & Artificial Intelligence
+                </span>
+                <span class="hidden sm:inline text-gray-300">•</span>
+                <span class="bg-gradient-to-r from-blue-600 to-indigo-700 text-white px-4 py-2 rounded-full shadow-sm font-semibold">
+                    #WorldRadioDay
+                </span>
+            </div>
+
+            <blockquote class="text-2xl sm:text-3xl font-light text-blue-800 italic max-w-4xl mx-auto mb-10 leading-relaxed">
+                "Technology alone does not build trust.<br class="hidden sm:inline"> Radio broadcasters do."
+            </blockquote>
+
+            <a href="https://www.unesco.org/en/days/world-radio"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="inline-flex items-center gap-2 text-blue-600 hover:text-indigo-700 font-semibold transition-colors group">
+                <span>Discover UNESCO World Radio Day</span>
+                <svg class="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                </svg>
+            </a>
+        </section>
+
+        <!-- Main Offer Card -->
+        <section class="pb-12">
+            <div class="relative overflow-hidden bg-gradient-to-br from-white to-blue-50/50 rounded-3xl shadow-2xl border border-blue-200/50 p-8 sm:p-12 lg:p-16">
+                <!-- Decorative elements -->
+                <div class="absolute top-0 right-0 w-64 h-64 bg-gradient-to-br from-blue-600/10 to-indigo-700/10 rounded-full blur-3xl -z-10"></div>
+                <div class="absolute bottom-0 left-0 w-96 h-96 bg-gradient-to-tr from-blue-100/30 to-indigo-100/30 rounded-full blur-3xl -z-10"></div>
+
+                <div class="max-w-4xl mx-auto relative">
+                    <div class="text-center mb-10">
+                        <div class="inline-block bg-gradient-to-r from-blue-600 to-indigo-700 text-white px-6 py-2 rounded-full text-sm font-bold uppercase tracking-wide mb-6">
+                            Exclusive Offer
+                        </div>
+                        <h3 class="text-4xl sm:text-5xl font-black font-heading text-gray-900 mb-4">
+                            6 Months of Free
+                            <span class="bg-gradient-to-r from-blue-600 to-indigo-700 bg-clip-text text-transparent"> AI Service*</span>
+                        </h3>
+                        <p class="text-xl text-gray-600">
+                            For all radio networks participating in World Radio Day 2026
+                        </p>
+                        <p class="text-sm text-gray-500 mt-2">
+                            * Storage, bandwidth and GPU limits apply
+                        </p>
+                    </div>
+
+                    <div class="space-y-6 text-lg text-gray-700 leading-relaxed">
+                        <p>
+                            <strong><a href="https://linagora.com/" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-indigo-700 transition-colors border-b-2 border-blue-600/30 hover:border-indigo-700">LINAGORA</a></strong> is offering radio stations and networks participating in <strong>World Radio Day 2026</strong> six months of free service on <strong><a href="https://linto.ai" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-indigo-700 transition-colors border-b-2 border-blue-600/30 hover:border-indigo-700">LinTO</a></strong>, our comprehensive media management platform with advanced AI transcription and collaborative editing tools.
+                        </p>
+
+                        <!-- Feature Grid -->
+                        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 my-8">
+                            <div class="flex items-start gap-3 bg-blue-50 p-4 rounded-xl border border-blue-200">
+                                <svg class="w-6 h-6 text-blue-700 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                </svg>
+                                <div>
+                                    <strong class="text-blue-800">Live Transcription</strong>
+                                    <p class="text-sm text-gray-600 mt-1">Real-time speech-to-text conversion for broadcasts</p>
+                                </div>
+                            </div>
+
+                            <div class="flex items-start gap-3 bg-indigo-50 p-4 rounded-xl border border-indigo-200">
+                                <svg class="w-6 h-6 text-indigo-600 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                </svg>
+                                <div>
+                                    <strong class="text-indigo-700">Subtitle Generation</strong>
+                                    <p class="text-sm text-gray-600 mt-1">Automatic subtitle creation and synchronization</p>
+                                </div>
+                            </div>
+
+                            <div class="flex items-start gap-3 bg-blue-50 p-4 rounded-xl border border-blue-200">
+                                <svg class="w-6 h-6 text-blue-700 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                </svg>
+                                <div>
+                                    <strong class="text-blue-800">Auto Summarization</strong>
+                                    <p class="text-sm text-gray-600 mt-1">AI-powered summaries of long-form content</p>
+                                </div>
+                            </div>
+
+                            <div class="flex items-start gap-3 bg-indigo-50 p-4 rounded-xl border border-indigo-200">
+                                <svg class="w-6 h-6 text-indigo-600 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                </svg>
+                                <div>
+                                    <strong class="text-indigo-700">Speaker Diarization</strong>
+                                    <p class="text-sm text-gray-600 mt-1">Automatic identification of different speakers</p>
+                                </div>
+                            </div>
+
+                            <div class="flex items-start gap-3 bg-blue-50 p-4 rounded-xl border border-blue-200">
+                                <svg class="w-6 h-6 text-blue-700 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                </svg>
+                                <div>
+                                    <strong class="text-blue-800">Multilingual Support</strong>
+                                    <p class="text-sm text-gray-600 mt-1">Live translation across multiple languages</p>
+                                </div>
+                            </div>
+
+                            <div class="flex items-start gap-3 bg-indigo-50 p-4 rounded-xl border border-indigo-200">
+                                <svg class="w-6 h-6 text-indigo-600 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                                </svg>
+                                <div>
+                                    <strong class="text-indigo-700">Self-Hostable</strong>
+                                    <p class="text-sm text-gray-600 mt-1">Full control with production-ready deployment</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <p>
+                            <strong>LinTO Studio</strong> provides radio broadcasters with comprehensive media management tools, from live transcription to collaborative editing, empowering teams to create accessible, multilingual content while maintaining complete data sovereignty.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Registration CTA -->
+        <section class="pb-12">
+            <div class="relative overflow-hidden bg-gradient-to-r from-blue-700 via-blue-600 to-indigo-800 rounded-3xl shadow-2xl p-8 sm:p-12 text-center">
+                <!-- Animated background pattern -->
+                <div class="absolute inset-0 opacity-10">
+                    <div class="absolute top-10 left-10 w-20 h-20 border-2 border-white rounded-full"></div>
+                    <div class="absolute bottom-10 right-10 w-32 h-32 border-2 border-white rounded-full"></div>
+                    <div class="absolute top-1/2 left-1/3 w-16 h-16 border-2 border-white rounded-full"></div>
+                </div>
+
+                <div class="relative z-10">
+                    <div class="inline-flex items-center gap-2 mb-6">
+                        <svg class="w-12 h-12 text-yellow-300 animate-pulse" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+                        </svg>
+                        <h3 class="text-3xl sm:text-4xl font-black font-heading text-white">
+                            Register for WRD26
+                        </h3>
+                        <svg class="w-12 h-12 text-yellow-300 animate-pulse" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+                        </svg>
+                    </div>
+                    <p class="text-xl sm:text-2xl text-white/90 max-w-3xl mx-auto font-medium mb-8">
+                        Participate in UNESCO World Radio Day 2026 and claim your free LinTO service.
+                    </p>
+                    <a href="https://webforms.unesco.org/en/form/mde002"
+                       target="_blank"
+                       rel="noopener noreferrer"
+                       class="inline-flex items-center gap-2 px-8 py-4 bg-white text-blue-900 rounded-lg hover:bg-blue-50 transition-all duration-200 font-bold text-lg shadow-xl hover:shadow-2xl hover:scale-105">
+                        <span>Register Now</span>
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- About WRD Section -->
+        <section class="pb-20">
+            <div class="text-center mb-12">
+                <h3 class="text-4xl font-black font-heading text-gray-900 mb-4">
+                    About World Radio Day
+                </h3>
+                <div class="w-24 h-1 bg-gradient-to-r from-blue-600 to-indigo-700 mx-auto rounded-full"></div>
+            </div>
+
+            <div class="grid lg:grid-cols-3 gap-6">
+                <div class="bg-white/80 backdrop-blur-sm rounded-2xl p-8 border border-blue-200/50 hover:shadow-xl transition-shadow">
+                    <div class="w-14 h-14 bg-gradient-to-br from-blue-600 to-indigo-700 rounded-xl flex items-center justify-center mb-6">
+                        <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
+                        </svg>
+                    </div>
+                    <h4 class="text-xl font-bold font-heading text-gray-900 mb-3">A UNESCO Initiative</h4>
+                    <p class="text-gray-700 leading-relaxed">
+                        Proclaimed in 2011 by UNESCO Member States and formally adopted by the UN General Assembly in 2012, World Radio Day celebrates broadcasters worldwide.
+                    </p>
+                </div>
+
+                <div class="bg-white/80 backdrop-blur-sm rounded-2xl p-8 border border-blue-200/50 hover:shadow-xl transition-shadow">
+                    <div class="w-14 h-14 bg-gradient-to-br from-indigo-700 to-indigo-800 rounded-xl flex items-center justify-center mb-6">
+                        <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>
+                        </svg>
+                    </div>
+                    <h4 class="text-xl font-bold font-heading text-gray-900 mb-3">2026 Theme: AI & Radio</h4>
+                    <p class="text-gray-700 leading-relaxed">
+                        When used ethically and responsibly to support professional judgement and creativity, AI can strengthen audience trust in radio broadcasting.
+                    </p>
+                </div>
+
+                <div class="bg-white/80 backdrop-blur-sm rounded-2xl p-8 border border-blue-200/50 hover:shadow-xl transition-shadow">
+                    <div class="w-14 h-14 bg-gradient-to-br from-blue-600 to-blue-700 rounded-xl flex items-center justify-center mb-6">
+                        <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                        </svg>
+                    </div>
+                    <h4 class="text-xl font-bold font-heading text-gray-900 mb-3">Global Collaboration</h4>
+                    <p class="text-gray-700 leading-relaxed">
+                        Radio stations are encouraged to connect internationally, exchanging programs, guests, and sound archives to foster collaboration beyond borders.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gradient-to-br from-gray-900 to-blue-950 text-gray-300 border-t border-blue-800/30">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <div class="text-center">
+                <div class="flex flex-wrap items-center justify-center gap-2 text-sm">
+                    <span>© 2025</span>
+                    <a href="https://linagora.com/" class="text-white hover:text-blue-400 transition-colors font-medium">LINAGORA</a>
+                    <span class="text-gray-600">·</span>
+                    <a href="https://linagora.com/en/privacy" target="_blank" rel="noopener noreferrer" class="text-white hover:text-blue-400 transition-colors font-medium">Privacy policy</a>
+                    <span class="text-gray-600">·</span>
+                    <span class="text-gray-400">This website has no cookies! 🍪</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
+
+<!-- trigger -->
